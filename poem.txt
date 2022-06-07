@@ -4,5 +4,6 @@ Work
 Think
 Consentrate
 Learning experince
+Learn
 
 This is what I think of tests
